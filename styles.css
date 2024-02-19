@@ -195,5 +195,9 @@ table td:nth-of-type(2) {
   .omelette-img {
     border-radius: 0;
   }
+
+  .primary-header {
+    margin-bottom: 1.8rem;
+  }
 }
 
